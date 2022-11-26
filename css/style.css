@@ -91,3 +91,12 @@ body{
  .active {
     display: block;
  }
+
+ .modal-header{
+    background: darkslateblue;
+    color: white;
+ }
+
+.modal-body{
+    background: thistle;
+}
